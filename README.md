@@ -1,9 +1,9 @@
 # tizen
 
 * Typo
- * http:://www.github.com
+  * http:://www.github.com
 * coding style
- *
- *
+  *
+  *
 * build 
 
